@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatalogService", "..\CatalogService\CatalogService.csproj", "{0056083C-BD8E-4DB3-93C9-8458E3EA9D59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatalogService.Tests", "..\CatalogService.Tests\CatalogService.Tests.csproj", "{CF45F9E9-C0C3-457A-8402-F952CF7C47B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0056083C-BD8E-4DB3-93C9-8458E3EA9D59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0056083C-BD8E-4DB3-93C9-8458E3EA9D59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0056083C-BD8E-4DB3-93C9-8458E3EA9D59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0056083C-BD8E-4DB3-93C9-8458E3EA9D59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF45F9E9-C0C3-457A-8402-F952CF7C47B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF45F9E9-C0C3-457A-8402-F952CF7C47B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF45F9E9-C0C3-457A-8402-F952CF7C47B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF45F9E9-C0C3-457A-8402-F952CF7C47B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18C74220-606D-4C97-A4AF-00245C7D4E35}
+	EndGlobalSection
+EndGlobal
